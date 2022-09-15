@@ -33,3 +33,11 @@ Robotten funker som den skal men litt problemer med pneumatikken
 # Selvsjekk
 
 Roboten skal "sjekke seg selv" med jevne mellomrom. Dette må settes opp.
+
+
+## Mathilde og Mohammed
+startet arbeid på roboten 08.09.2022
+aksling 4 på roboten har problemer(lager ulyder), james skal hjelpe til med å fikse dette
+griper mangler 
+en kollisjons sensor skal legges til ved aksling 6, den trenger en adapter plate 
+bur skal bygges med lys gardin
